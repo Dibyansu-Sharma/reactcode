@@ -24,5 +24,3 @@ export default function App() {
     </div>
   );
 }
-
-// fix connect script in latest video
